@@ -1,6 +1,6 @@
 # SRGAN On Custom Dataset
 Learn how to train SRGAN on Custom dataset
-
+Check out Loss_graph.png
 ## Environment Setup
 Open anaconda prompt and cd to the folder where you have your environment.yml file
 
